@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+android:background="@color/white"
+
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:background="@color/white"
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/plant_image" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView"
+        app:startIconDrawable="@drawable/ic_email"
+        app:boxBackgroundMode="none"
+        app:boxStrokeColor="@color/mainColor"
+        app:boxStrokeWidth="2dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:inputType="text" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <View
+        android:id="@+id/customBottomBorderEmail"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/editTextEmail"
+        android:background="@color/white" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/etPasswordLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/editTextEmail"
+        app:passwordToggleEnabled="true"
+        app:startIconDrawable="@drawable/ic_vpn_lock"
+        app:boxBackgroundMode="none"
+        app:boxStrokeColor="@color/mainColor"
+        app:boxStrokeWidth="2dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="password"
+            android:inputType="textPassword" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <View
+        android:id="@+id/customBottomBorder"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/etPasswordLayout"
+        android:background="@color/white" />
+
+
+    <CheckBox
+        android:id="@+id/checkBoxRememberMe"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@id/etPasswordLayout"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp"
+android:layout_centerInParent="true"
+        android:text="Remember Me"/>
+
+    <Button
+        android:id="@+id/buttonSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/checkBoxRememberMe"
+        android:layout_marginTop="4dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/mainColor"
+        android:text="Sign In"/>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="or continue with"
+    android:textColor="@color/black"
+android:layout_below="@id/buttonSignIn"
+    android:layout_centerHorizontal="true"
+    android:paddingTop="8dp"></TextView>
+
+    <LinearLayout
+        android:id="@+id/socialButtons"
+        android:layout_width="500dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/buttonSignIn"
+        android:layout_marginTop="35dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <!-- Google Sign In Button -->
+        <ImageButton
+            android:id="@+id/googleSignInButton"
+            android:layout_width="65dp"
+            android:layout_height="55dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/img_18" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewSignUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/socialButtons"
+        android:layout_marginTop="12dp"
+        android:layout_centerHorizontal="true"
+        android:text="Don't have an account? Sign Up"
+        android:clickable="true"
+        android:onClick="onSignUpClick"
+        />
+</RelativeLayout>

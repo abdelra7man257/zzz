@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Aglaonema",
+        "type": "Indoor",
+        "description": "Aglaonema is a low-maintenance plant that is perfect for beginners.",
+        "imageUrl": "file:///android_asset/Aglaonema.jpg"
+    },
+    {
+        "title": "Dracaena",
+        "type": "Indoor",
+        "description": "Dracaena is a popular indoor plant that comes in many different varieties.",
+        "imageUrl": "file:///android_asset/Dracaena.jpg"
+    },
+    {
+        "title": "Snake Plant",
+        "type": "Indoor",
+        "description": "Snake Plant, also known as Sansevieria, is a hardy and low-maintenance indoor plant.",
+        "imageUrl": "file:///android_asset/SnakePlant.jpg"
+    },
+    {
+        "title": "Fern",
+        "type": "Indoor",
+        "description": "Ferns are leafy green plants known for their delicate and feathery fronds, making them a popular choice for indoor spaces.",
+        "imageUrl": "file:///android_asset/Fern.jpg"
+    },
+    {
+        "title": "STRELITZIA L",
+        "type": "Indoor",
+        "description": "STRELITZIA L, commonly known as Bird of Paradise, is a stunning indoor plant with large banana-like leaves and vibrant tropical flowers.",
+        "imageUrl": "file:///android_asset/StrelitziaL.jpg"
+    },
+
+    {
+        "title": "Spider Plant",
+        "type": "Indoor",
+        "description": "Spider Plant is known for its arching leaves and is considered one of the easiest houseplants to grow.",
+        "imageUrl": "file:///android_asset/SpiderPlant.jpg"
+    },
+    {
+        "title": "ARECA",
+        "type": "Indoor",
+        "description": "ARECA, commonly known as the Areca Palm or Butterfly Palm, is an elegant indoor plant with feathery, arching fronds, and is known for its air-purifying qualities.",
+        "imageUrl": "file:///android_asset/Areca.jpg"
+    },
+
+    {
+        "title": "FICUS LYRATA",
+        "type": "Indoor",
+        "description": "FICUS LYRATA, commonly known as the Fiddle Leaf Fig, is a trendy and decorative indoor tree with large, fiddle-shaped leaves that add a touch of elegance to any space.",
+        "imageUrl": "file:///android_asset/FicusLyrata.jpg"
+    },
+
+    {
+        "title": "PHALAENOPSIS",
+        "type": "Indoor",
+        "description": "PHALAENOPSIS, commonly known as the Moth Orchid, is a stunning indoor orchid known for its large, colorful, and butterfly-like flowers. It is a popular choice for orchid enthusiasts and indoor gardening.",
+        "imageUrl": "file:///android_asset/Phalaenopsis.jpg"
+    },
+
+    {
+        "title": "HOWEA FORSTERIANA",
+        "type": "Indoor",
+        "description": "HOWEA FORSTERIANA, commonly known as the Kentia Palm or Sentry Palm, is an elegant and durable indoor palm with graceful, arching fronds. It is an excellent choice for adding a touch of the tropics to your indoor space.",
+        "imageUrl": "file:///android_asset/HoweaForsteriana.jpg"
+    },
+
+    {
+        "title": "FICUS",
+        "type": "Outdoor",
+        "description": "FICUS, when grown outdoors, adds a touch of greenery to your garden or landscape. It is a versatile plant with various species that thrive in outdoor conditions.",
+        "imageUrl": "file:///android_asset/FicusOutdoor.jpg"
+    },
+
+    {
+        "title": "WASHINGTONIA",
+        "type": "Outdoor",
+        "description": "WASHINGTONIA, also known as the Washington Palm, is a majestic outdoor palm that adds a tropical touch to gardens and landscapes. It is known for its tall trunk and fan-shaped leaves.",
+        "imageUrl": "file:///android_asset/Washingtonia.jpg"
+    },
+
+    {
+        "title": "EUCALYPTUS",
+        "type": "Outdoor",
+        "description": "EUCALYPTUS, known for its aromatic leaves, is a versatile outdoor plant. It is popular for its fast growth and is commonly used in landscaping and for its oil-producing properties.",
+        "imageUrl": "file:///android_asset/Eucalyptus.jpg"
+    },
+
+    {
+        "title": "TRACHYCARPUS",
+        "type": "Outdoor",
+        "description": "TRACHYCARPUS, commonly known as the Windmill Palm, is a hardy outdoor palm tree with distinctive fan-shaped leaves. It is well-suited for gardens and landscapes, adding a tropical and exotic element.",
+        "imageUrl": "file:///android_asset/Trachycarpus.jpg"
+    },
+
+    {
+        "title": "TERRACOTTA",
+        "type": "Outdoor",
+        "description": "A variety of outdoor plants, such as Geraniums or Succulents, often thrive when planted in terracotta pots. These pots provide good drainage and a classic aesthetic.",
+        "imageUrl": "file:///android_asset/TerracottaPlanted.jpg"
+    },
+
+    {
+        "title": "Elho Boxwood",
+        "type": "Outdoor",
+        "description": "The Elho Boxwood is an outdoor plant cultivated in stylish Elho planters. This combination offers a modern and elegant touch to gardens and outdoor spaces, with the Boxwood providing evergreen beauty.",
+        "imageUrl": "file:///android_asset/ElhoBoxwood.jpg"
+    },
+
+    {
+        "title": "BUDDLEJA",
+        "type": "Outdoor",
+        "description": "BUDDLEJA, commonly known as the Butterfly Bush, is an outdoor plant celebrated for its fragrant and nectar-rich flowers that attract butterflies and other pollinators. It adds beauty and biodiversity to gardens.",
+        "imageUrl": "file:///android_asset/Buddleja.jpg"
+    },
+
+    {
+        "title": "FICUS CARICA FIG TREE",
+        "type": "Outdoor",
+        "description": "FICUS CARICA, commonly known as the Fig Tree, is an outdoor plant prized for its delicious and sweet fig fruits. It features large, lobed leaves and can be a beautiful addition to gardens and landscapes.",
+        "imageUrl": "file:///android_asset/FicusCarica.jpg"
+    },
+
+    {
+        "title": "STRELITZIA",
+        "type": "Indoor",
+        "description": "STRELITZIA, commonly known as the Bird of Paradise, is a stunning indoor plant with large banana-like leaves and vibrant tropical flowers. It adds a touch of exotic elegance to indoor spaces.",
+        "imageUrl": "file:///android_asset/Strelitzia.jpg"
+    },
+
+    {
+        "title": "BEAUCARNEA",
+        "type": "Indoor",
+        "description": "BEAUCARNEA, commonly known as the Ponytail Palm, is an indoor plant characterized by its unique, swollen base and long, arching leaves resembling a ponytail. It is a low-maintenance and distinctive addition to indoor spaces.",
+        "imageUrl": "file:///android_asset/Beaucarnea.jpg"
+    }
+
+]

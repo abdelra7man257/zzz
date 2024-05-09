@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "301206555986",
+    "project_id": "bloomlast-9d257",
+    "storage_bucket": "bloomlast-9d257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301206555986:android:2725bef00d153d5ee8fe8b",
+        "android_client_info": {
+          "package_name": "com.example.plantsblooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301206555986-nmqficdkqo3gp2fimptbvpuijfp2k13g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantsblooms",
+            "certificate_hash": "5c45dbab35300f8ef45757db96e6dced15a5e56a"
+          }
+        },
+        {
+          "client_id": "301206555986-imv5phi8j37d70neard4f2cg92agcmd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0NkdUB4Mxt0twSICvmZEmdsJTLuq6Aqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301206555986-imv5phi8j37d70neard4f2cg92agcmd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
